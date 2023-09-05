@@ -21,5 +21,5 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 ```bash
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
 # or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+yarn create next-app --
 
